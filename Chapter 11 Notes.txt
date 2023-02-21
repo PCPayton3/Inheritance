@@ -1,0 +1,11 @@
+Sub and Super Classes
+  - The __init__ method of the sub-class will always 
+    skip the __init__ superclass
+  - works only from sub class to super class
+  - line 10 for Athlete program, you calling an object the is not in the super class
+
+Polymorphism
+  - it knows whatever you are calling for it to use based on which instance you want to call it
+  - used in Animals
+  - used for the exact same method name 
+  - any time you see repetative code, you can create a funtion
