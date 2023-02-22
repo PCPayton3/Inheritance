@@ -1,7 +1,7 @@
 import g_PersonClass as pc
 
-reece = pc.Customer("Reece Modisette", 'Somewhere on 14th and Wood',
-                    '1234567890', '892543392')
+reece = pc.Customer("Reece Modisette", '1929 S 14th St.',
+                    '9366356523', '892543392')
 payton = pc.Person("Payton Campbell", "1423 James Ave", "7134924041")
 
 print('*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
