@@ -1,7 +1,4 @@
-# This program creates a Car object, a Truck object,
-# and an SUV object.
-
-import e_vehicles as vehicles
+import e_vehicles2 as vehicles
 
 
 def main():
